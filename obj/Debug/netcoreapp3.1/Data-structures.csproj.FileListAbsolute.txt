@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.exe
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.deps.json
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.runtimeconfig.json
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.dll
+C:\Users\Paul\Documents\Programación\Data-structures\bin\Debug\netcoreapp3.1\Data-structures.pdb
+C:\Users\Paul\Documents\Programación\Data-structures\obj\Debug\netcoreapp3.1\Data-structures.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Programación\Data-structures\obj\Debug\netcoreapp3.1\Data-structures.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Programación\Data-structures\obj\Debug\netcoreapp3.1\Data-structures.AssemblyInfo.cs
+C:\Users\Paul\Documents\Programación\Data-structures\obj\Debug\netcoreapp3.1\Data-structures.dll
+C:\Users\Paul\Documents\Programación\Data-structures\obj\Debug\netcoreapp3.1\Data-structures.pdb
